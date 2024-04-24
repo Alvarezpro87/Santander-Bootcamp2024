@@ -16,8 +16,7 @@ Aqui está uma breve descrição de cada um:
 Este repositório utiliza diversas tecnologias, dependendo do projeto. Algumas das mais comuns incluem:
 
 - Java
-- JavaScript
-- React
+- Spring Boot
 
 ## Como Usar
 
