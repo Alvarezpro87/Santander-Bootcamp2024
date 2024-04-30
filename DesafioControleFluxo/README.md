@@ -17,9 +17,12 @@ Este projeto foi desenvolvido como parte do Santander Bootcamp 2024 - Backend Ja
 
 Para configurar este projeto, você precisará ter o Java JDK instalado em seu sistema. Você pode verificar se o Java está instalado executando `java -version` no terminal.
 
-### Passos para Configuração
+### Como Executar
 
 1. Clone o repositório para sua máquina local:
 
-Link do Projeto: [Controle de Fluxo](https://github.com/Alvarezpro87/Santander-Bootcamp2024.git)
+Link do Projeto: [Controle de Fluxo](https://github.com/Alvarezpro87/Santander-Bootcamp2024/tree/main/DesafioControleFluxo)
 
+2. Execute o programa compilado;
+
+3. Quando solicitado, digite 2 numeros;
