@@ -1,7 +1,11 @@
 # Simulador de iPhone
 
 Este projeto é uma simulação simplificada das funcionalidades básicas de um iPhone, implementando interfaces para um reprodutor musical, um aparelho telefônico e um navegador de internet. O projeto foi desenvolvido em Java e serve como uma demonstração de aplicação dos princípios de programação orientada a objetos.
+## Diagrama UML
 
+Aqui está o diagrama UML que ilustra a arquitetura do projeto:
+
+![Diagrama UML do Simulador de iPhone](DesafioIphone.png)
 ## Funcionalidades
 
 - **Reprodutor Musical**: Permite tocar e pausar música, além de ajustar o volume.
