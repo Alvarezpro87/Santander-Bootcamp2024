@@ -25,7 +25,7 @@ public class Main {
         bancoInicial.mostrarClientes();
 
         Cliente neji = new Cliente("Neji", bancoInicial);
-        Conta ccorrente2 = new ContaCorrente(neji);
+        Conta ccorrente2 = new ContaCorrente(neji);/cc
         ccorrente2.imprimirExtrato();
         bancoInicial.mostrarClientes();
     }
